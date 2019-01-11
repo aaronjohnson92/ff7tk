@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['backrow',['BackRow',['../class_f_f7_char.html#a26e66dfd9b7247399f409e04d7566a84a953dd36246abb8acc52537513bc3fc1f',1,'FF7Char']]],
+  ['bahamut',['Bahamut',['../class_f_f7_materia.html#a992eb8c9016a9bdd29b2d92c350e5fd8a05dec6a0cac30ba2105fba8241254b0c',1,'FF7Materia']]],
+  ['bahamutzero',['BahamutZERO',['../class_f_f7_materia.html#a992eb8c9016a9bdd29b2d92c350e5fd8ae1b9b63e7bf44b29ff1eaa185ab0676d',1,'FF7Materia']]],
+  ['barret',['Barret',['../class_f_f7_char.html#a82123a0b752138a8484cfeb435af9119a90c128fa373ccf579007daaac065edff',1,'FF7Char']]],
+  ['barrier',['Barrier',['../class_f_f7_materia.html#a992eb8c9016a9bdd29b2d92c350e5fd8ac0f294e4ab17ef7cc79e316dcc442262',1,'FF7Materia']]],
+  ['battery',['Battery',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7af6b3468e38407908c45321c568a03fa9',1,'FF7Item']]],
+  ['battletrumpet',['BattleTrumpet',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a8a4a3a9f6e522a67f2b1481b590f52af',1,'FF7Item']]],
+  ['behemothhorn',['BehemothHorn',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a2504e9c9e28c456660d634a08bebee60',1,'FF7Item']]],
+  ['birdwing',['BirdWing',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a6bde95f467ae334abb37fdc919609bc9',1,'FF7Item']]],
+  ['blackmphone',['BlackMphone',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a410d41a2960bef529df21ab1be7b3292',1,'FF7Item']]],
+  ['bluemphone',['BlueMphone',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7af87671d73f5b2e98fc88151af4401eb1',1,'FF7Item']]],
+  ['boltarmlet',['BoltArmlet',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a7dc8eb68965cd50a6674345ed1319d76',1,'FF7Item']]],
+  ['boltplume',['BoltPlume',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a724c877b354b74f49658a566c9080128',1,'FF7Item']]],
+  ['boltring',['BoltRing',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a9d9afb7d678e27513da8caf98feb22e4',1,'FF7Item']]],
+  ['boomerang',['Boomerang',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a8162105c52f02ba4437a9b610a34a5b5',1,'FF7Item']]],
+  ['bronzebangle',['BronzeBangle',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a7c93bb1396f844ff0196bf7aea5febcb',1,'FF7Item']]],
+  ['buntline',['Buntline',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7aff0ad892b8927e611009e33e1574be6b',1,'FF7Item']]],
+  ['bustersword',['BusterSword',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a570707f53c87fc52ef14fef371592dbc',1,'FF7Item']]],
+  ['bytterflyedge',['BytterflyEdge',['../class_f_f7_item.html#a9ef504bbd839e117669cc6fbbaea4fa7a00f578aabd551484b32acbb7f2f69dc0',1,'FF7Item']]]
+];
